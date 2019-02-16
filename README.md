@@ -1,4 +1,4 @@
-GifTastic: https://dericson87.github.io/GifTastic/ 
+# GifTastic: https://dericson87.github.io/GifTastic/ 
 
 Overview:
 
